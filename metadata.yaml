@@ -1,0 +1,30 @@
+_repo: A-Book-for-Kids_16251
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dennis, C. J. (Clarence James)
+    alias: Dennis, Clarence James
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '1560'
+    url: http://www.gutenberg.org/2009/agents/1560
+    wikipedia: http://en.wikipedia.org/wiki/C._J._Dennis
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Australian'
+- !lcsh 'Children''s poetry, Australian'
+- !lcc 'PZ'
+title: A Book for Kids
+url: http://www.gutenberg.org/ebooks/16251
